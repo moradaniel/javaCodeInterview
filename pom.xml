@@ -5,8 +5,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>javaCodeInterview</groupId>
-    <artifactId>code</artifactId>
+    <groupId>codeInterview</groupId>
+    <artifactId>javaCodeInterview</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
